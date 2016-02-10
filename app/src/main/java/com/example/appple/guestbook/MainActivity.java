@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         lastName = (EditText) findViewById(R.id.lname);
         phoneNumber = (EditText) findViewById(R.id.phonenum);
         emailAdd = (EditText) findViewById(R.id.emailaddress);
-
+//some changes
         submitButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
